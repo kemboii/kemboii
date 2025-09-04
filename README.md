@@ -19,17 +19,6 @@
 - **Security:** Kali Linux, Burp Suite, Metasploit, Wireshark, tcpdump, Linux log analysis, OWASP tools  
 - **Other:** Prometheus, Grafana (for monitoring & dashboards)  
 
-<h2>🛡️ Cybersecurity Tools:</h2>
-
-- **Kali Linux** – Penetration testing and ethical hacking  
-- **Burp Suite** – Web application security testing  
-- **Metasploit Framework** – Exploit development and post-exploitation  
-- **Wireshark** – Packet analysis and traffic inspection  
-- **tcpdump** – Command-line packet capture and analysis  
-- **Nmap** – Network scanning and service enumeration  
-- **Hydra** – Password brute-forcing and authentication testing  
-- **OWASP ZAP** – Automated web app vulnerability scanning  
-- **Linux Log Analysis** – Investigating authentication logs, privilege escalation, and system activity  
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
